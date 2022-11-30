@@ -1,11 +1,5 @@
-// This is a simple Password Generator App that will generate random password maybe you can you them to secure your account.
-// I tried my best to make the code as simple as possible please dont mind the variable names.
-// Also this idea came in my mind after checking Traversy Media's latest video.
-
 // Clear the concole on every refresh
 console.clear();
-// set the body to full height
-// document.body.style.height = `${innerHeight}px`
 
 // Range Slider Properties.
 // Fill : The trailing color that you see when you drag the slider.
